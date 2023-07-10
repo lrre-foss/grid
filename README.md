@@ -1,4 +1,7 @@
 # grid
+[![License](https://img.shields.io/github/license/lrre-foss/grid)](https://github.com/lrre-foss/grid/blob/trunk/LICENSE)
+[![Star](https://img.shields.io/github/stars/lrre-foss/grid?style=social)](https://github.com/lrre-foss/grid/stargazers)
+
 JavaScript implementation of the Roblox Grid protocol
 
 # License
