@@ -1,0 +1,19 @@
+{
+  "name": "@lrre-foss/grid",
+  "version": "1.0.0",
+  "description": "JavaScript implementation of the Roblox Grid protocol",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lrre-foss/grid.git"
+  },
+  "author": "Legacy Roblox Reverse Engineers",
+  "license": "LGPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/lrre-foss/grid/issues"
+  },
+  "homepage": "https://github.com/lrre-foss/grid#readme"
+}
