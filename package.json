@@ -15,7 +15,7 @@
   "homepage": "https://github.com/lrre-foss/grid#readme",
   "dependencies": {
     "fast-xml-parser": "^4.2.7",
-    "node-fetch": "^2.6.12",
+    "node-fetch": "^2.7.0",
     "xml-formatter": "^3.5.0"
   }
 }
